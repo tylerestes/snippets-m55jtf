@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tylerestes.github.io/snippets-m55jtf/sitemap.xml
